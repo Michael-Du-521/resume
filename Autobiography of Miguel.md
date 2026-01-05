@@ -229,16 +229,18 @@ Additional Learning Activities
 - 苏州市心理协会 基础工作者证书
 - 苏州 逻辑演说 第四期 演讲者 杜明睿
 # 其他
+## 微信小店
+![田丽超市](assets\img\The_Shop_Of_Tian_wechat_shop_qr.jpg)
 ## 微信公众号
-![渡晓帆GritWorld](\assets\img\dxfgw_wechat_qr.jpg)
+![渡晓帆GritWorld](assets\img\dxfgw_wechat_qr.jpg)
 ## 知识星球
-![渡晓帆GritWorld](\assets\img\dxfgw_knowledgePlanet_qr.png)
+![渡晓帆GritWorld](assets\img\dxfgw_knowledgePlanet_qr.png)
 ## 多邻国APP
-![杜明睿Miguel](\assets\img\Miguel_Duolingo_qr.jpg)
+![杜明睿Miguel](assets\img\Miguel_Duolingo_qr.jpg)
 ## 微信视频号
-![杜明睿Miguel](\assets\img\Miguel_wechat_Channels_qr.jpg)
+![杜明睿Miguel](assets\img\Miguel_wechat_Channels_qr.jpg)
 ## 小红书
-![杜明睿Miguel](\assets\img\Miguel_rednote_qr.jpg)
+![杜明睿Miguel](assets\img\Miguel_rednote_qr.jpg)
 ## 抖音
-![杜明睿Miguel](\assets\img\Miguel_tiktok_qr.png)
+![杜明睿Miguel](assets\img\Miguel_tiktok_qr.png)
 
