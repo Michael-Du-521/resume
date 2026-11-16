@@ -316,6 +316,8 @@ body.social-page {
   filter: grayscale(1);
 }
 
+.site-portrait-color { filter: none; }
+
 .resume-home .site-footer h2 {
   margin-bottom: .6rem;
   font-size: clamp(1.4rem, 3vw, 2.25rem);
